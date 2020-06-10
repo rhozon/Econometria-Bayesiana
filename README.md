@@ -2,8 +2,4 @@
 
 Livros de econometria bayesiana
 
-Listagem de autores:
-- 
--
--
--
+![](bayesteorema.png)
